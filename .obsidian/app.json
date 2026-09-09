@@ -1,0 +1,8 @@
+{
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "livePreview": true,
+  "readableLineLength": true,
+  "useMarkdownLinks": false
+}

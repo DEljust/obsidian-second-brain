@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"group_gamedev","type":"group","label":"🎮 3D & Game Engine Pipeline","x":-640,"y":-220,"width":1120,"height":840,"color":"4"},
+		{"id":"group_android","type":"group","label":"📱 Senior Android Kotlin & UI/UX Architecture","x":1120,"y":-220,"width":1120,"height":840,"color":"5"},
+		{"id":"group_hubs","type":"group","label":"🌐 Mega Skill Registries & Universal Protocols","x":200,"y":-720,"width":1200,"height":400,"color":"2"},
+		{"id":"group_rules","type":"group","label":"🛠️ Production Configuration & Deployment","x":200,"y":680,"width":1200,"height":400,"color":"3"},
+		{"id":"agent_orchestrator","type":"text","text":"# 🤖 AI Coding Agent Core\n**Claude Code / Cursor / Antigravity / Windsurf**\n\n• Universal Skills CLI: [[AgentSkills.io & Universal Skills CLI]]\n• MCP Protocols: [[Awesome MCP Servers Directory]]\n• Rules Engine: [[Complete Senior Android & UI-UX .cursorrules]]\n• Master Index: [[00 - 🧠 AI Agent Skills Second Brain (MOC)]]\n\n*Orchestrates domain skills via progressive disclosure.*","x":600,"y":260,"width":400,"height":280,"color":"6"},
+		{"id":"blender_skills","type":"text","text":"# 🎨 Blender Agent Bundle\n**[[Blender Agent Skills & Blender-MCP]]**\n\n• **arjun988/blender-skills** (94+ procedural skills)\n• **Gorav22/Blender-mcp** (Live socket bridge)\n• Modeling, Retopo, Rigging, Geo Nodes\n• Automated glTF/FBX export for Unreal & Unity","x":-600,"y":-140,"width":480,"height":320,"color":"4"},
+		{"id":"unreal_skills","type":"text","text":"# ⚡ Unreal Engine 5 Bundle\n**[[Unreal Engine 5 MCP & Skills]]**\n\n• **kvick-games/UnrealMCP** (Editor remote protocol)\n• **Flux-Point-Studios/unreal-mcp** (C++ engine bridge)\n• Level design, Actor spawning, Blueprint inspection\n• Packaging & shader compilation triggers","x":-600,"y":240,"width":480,"height":320,"color":"4"},
+		{"id":"unity_skills","type":"text","text":"# 🕹️ Unity Game Dev Bundle\n**[[Unity MCP & Game Development Skills]]**\n\n• **CoplayDev/unity-mcp** (Live Editor bridge)\n• **Besty0728/Unity-Skills** (Architecture & gameplay)\n• ScriptableObjects, State Machines, GC-free code\n• Scene hierarchy and Prefab management","x":-60,"y":-140,"width":480,"height":320,"color":"4"},
+		{"id":"unified_pipeline","type":"text","text":"# 🌐 Unified 3D Frameworks\n**[[Unified 3D & Multi-Engine Frameworks]]**\n\n• **tahooki/unreal-blender-mcp**\n• **OpenDCAI/GameFactory-3A** (Autonomous 3A game dev)\n• **DCC-MCP** (Universal standard for DCC tools)\n• Automated coordinate translation (Z-up vs Y-up)","x":-60,"y":240,"width":480,"height":320,"color":"4"},
+		{"id":"android_blueprint","type":"text","text":"# 🏛️ Senior Android Blueprint\n**[[Senior Android Engineer Agent Blueprint]]**\n\n• Clean Architecture + MVI + Unidirectional Data Flow\n• Single Immutable UI State + Sealed Events\n• Type-safe Navigation 3 with @Serializable\n• Offline-first Room DB + Ktor network","x":1160,"y":-140,"width":480,"height":320,"color":"5"},
+		{"id":"claude_ninja","type":"text","text":"# 🥷 Claude Android Ninja\n**[[Claude Android Ninja (Modular Arch & Navigation 3)]]**\n\n• **Drjacky/claude-android-ninja**\n• Feature-first modularization (:core, :feature)\n• Gradle Version Catalogs (libs.versions.toml)\n• Clean Hilt & Koin dependency injection","x":1160,"y":240,"width":480,"height":320,"color":"5"},
+		{"id":"ui_ux_master","type":"text","text":"# 🎨 Jetpack Compose UI/UX Master\n**[[Jetpack Compose UI-UX Master Skill]]**\n\n• Material Design 3 Expressive Tokens\n• Haptic feedback & Motion (AnimatedVisibility)\n• Adaptive Layouts (ListDetailPaneScaffold)\n• WCAG / TalkBack 48dp touch target compliance","x":1700,"y":-140,"width":480,"height":320,"color":"5"},
+		{"id":"compose_perf","type":"text","text":"# ⚡ Compose Performance & Audits\n**[[Compose Performance & Quality Audit Skills]]**\n\n• **skydoves/compose-performance-skills**\n• **aldefy/compose-skill** (AST audit)\n• Recomposition stability, @Immutable, deferred reads\n• Stable lazy list keys and derivedStateOf","x":1700,"y":240,"width":480,"height":320,"color":"5"},
+		{"id":"voltagent_skills","type":"text","text":"# 📚 VoltAgent Skills (1,000+)\n**[[VoltAgent Awesome Agent Skills (1000+ Skills)]]**\n\n• Curated engineering skills\n• Security audits, DB migrations\n• Production CI/CD & Docker workflows","x":240,"y":-660,"width":360,"height":280,"color":"2"},
+		{"id":"agentskills_cli","type":"text","text":"# 🚀 Universal Skills CLI\n**[[AgentSkills.io & Universal Skills CLI]]**\n\n• Package manager: `npx skills add <repo>`\n• Open standard (`SKILL.md`)\n• Progressive disclosure design pattern","x":640,"y":-660,"width":360,"height":280,"color":"2"},
+		{"id":"mcp_registry","type":"text","text":"# 🔌 Awesome MCP Directory\n**[[Awesome MCP Servers Directory]]**\n\n• **wong2/awesome-mcp-servers**\n• Bridges models to OS, databases & APIs\n• mcpservers.org index","x":1040,"y":-660,"width":360,"height":280,"color":"2"},
+		{"id":"cursorrules_prod","type":"text","text":"# 📋 Production Android Rules\n**[[Complete Senior Android & UI-UX .cursorrules]]**\n\n• Ready-to-copy `.cursorrules` file\n• Drops straight into Android Studio projects\n• Enforces Senior standards automatically","x":240,"y":740,"width":360,"height":280,"color":"3"},
+		{"id":"mcp_config_prod","type":"text","text":"# ⚙️ Game Dev MCP Configs\n**[[MCP Configuration for Game Dev (Blender, UE5, Unity)]]**\n\n• `claude_desktop_config.json` snippets\n• Port mappings: Blender (9876), UE5 (30010)\n• Unity WebSocket connection setup","x":640,"y":740,"width":360,"height":280,"color":"3"},
+		{"id":"studio_workflow","type":"text","text":"# 📱 Android Studio Workflow\n**[[Android Studio & AI Agent Workflow Guide]]**\n\n• Gradle loop: build, test, preview\n• Gemini Code Assist + Claude/Cursor\n• Zero-context waste workflow","x":1040,"y":740,"width":360,"height":280,"color":"3"}
+	],
+	"edges":[
+		{"id":"e_cli_to_agent","fromNode":"agentskills_cli","fromSide":"bottom","toNode":"agent_orchestrator","toSide":"top","label":"installs skills into"},
+		{"id":"e_mcp_to_agent","fromNode":"mcp_registry","fromSide":"bottom","toNode":"agent_orchestrator","toSide":"top","label":"provides protocol for"},
+		{"id":"e_voltagent_to_agent","fromNode":"voltagent_skills","fromSide":"bottom","toNode":"agent_orchestrator","toSide":"top","label":"supplies 1000+ skills to"},
+		{"id":"e_agent_to_blender","fromNode":"agent_orchestrator","fromSide":"left","toNode":"blender_skills","toSide":"right","label":"drives 3D modeling via"},
+		{"id":"e_agent_to_unreal","fromNode":"agent_orchestrator","fromSide":"left","toNode":"unreal_skills","toSide":"right","label":"controls UE5 levels via"},
+		{"id":"e_agent_to_unity","fromNode":"agent_orchestrator","fromSide":"left","toNode":"unity_skills","toSide":"right","label":"controls Unity via"},
+		{"id":"e_blender_to_unified","fromNode":"blender_skills","fromSide":"bottom","toNode":"unified_pipeline","toSide":"top","label":"exports meshes to"},
+		{"id":"e_unified_to_unreal","fromNode":"unified_pipeline","fromSide":"left","toNode":"unreal_skills","toSide":"right","label":"imports into"},
+		{"id":"e_unified_to_unity","fromNode":"unified_pipeline","fromSide":"top","toNode":"unity_skills","toSide":"bottom","label":"imports into"},
+		{"id":"e_agent_to_android","fromNode":"agent_orchestrator","fromSide":"right","toNode":"android_blueprint","toSide":"left","label":"executes mobile arch with"},
+		{"id":"e_ninja_to_blueprint","fromNode":"claude_ninja","fromSide":"top","toNode":"android_blueprint","toSide":"bottom","label":"modular & nav rules"},
+		{"id":"e_uiux_to_blueprint","fromNode":"ui_ux_master","fromSide":"left","toNode":"android_blueprint","toSide":"right","label":"M3 & accessibility rules"},
+		{"id":"e_perf_to_blueprint","fromNode":"compose_perf","fromSide":"left","toNode":"android_blueprint","toSide":"bottom","label":"stability & AST audit"},
+		{"id":"e_agent_to_rules","fromNode":"agent_orchestrator","fromSide":"bottom","toNode":"cursorrules_prod","toSide":"top","label":"reads project rules from"},
+		{"id":"e_agent_to_mcp_config","fromNode":"agent_orchestrator","fromSide":"bottom","toNode":"mcp_config_prod","toSide":"top","label":"loads server ports from"},
+		{"id":"e_agent_to_workflow","fromNode":"agent_orchestrator","fromSide":"bottom","toNode":"studio_workflow","toSide":"top","label":"executes in Studio via"}
+	]
+}

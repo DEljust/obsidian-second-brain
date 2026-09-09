@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#synapse OR tag:#neural-hub",
+      "color": {
+        "a": 1,
+        "rgb": 11032055
+      }
+    },
+    {
+      "query": "tag:#3d OR tag:#blender",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "tag:#ue5 OR tag:#unity OR tag:#gamedev",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "tag:#android OR tag:#kotlin",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "tag:#ui-ux OR tag:#design",
+      "color": {
+        "a": 1,
+        "rgb": 16007006
+      }
+    },
+    {
+      "query": "tag:#protocol OR tag:#input OR tag:#transport",
+      "color": {
+        "a": 1,
+        "rgb": 3718648
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.45,
+  "lineSizeMultiplier": 1.3,
+  "collapse-forces": false,
+  "centerStrength": 0.45,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 140,
+  "scale": 0.3628873693012104,
+  "close": false
+}
